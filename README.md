@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajdip803
+- 👋 Hi, I’m Rajdip Mukherjee
 - 👀 I’m interested in ... Core java, Sql, Html and Css
 - 🌱 I’m currently learning ... Html and Css
 - 💞️ I’m looking to collaborate on ...
